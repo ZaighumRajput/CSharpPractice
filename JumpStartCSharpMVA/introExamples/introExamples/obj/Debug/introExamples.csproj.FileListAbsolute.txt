@@ -1,0 +1,6 @@
+B:\projects\CSharp\JumpStartCSharpMVA\introExamples\introExamples\bin\Debug\introExamples.exe.config
+B:\projects\CSharp\JumpStartCSharpMVA\introExamples\introExamples\obj\Debug\introExamples.csprojResolveAssemblyReference.cache
+B:\projects\CSharp\JumpStartCSharpMVA\introExamples\introExamples\bin\Debug\introExamples.exe
+B:\projects\CSharp\JumpStartCSharpMVA\introExamples\introExamples\bin\Debug\introExamples.pdb
+B:\projects\CSharp\JumpStartCSharpMVA\introExamples\introExamples\obj\Debug\introExamples.exe
+B:\projects\CSharp\JumpStartCSharpMVA\introExamples\introExamples\obj\Debug\introExamples.pdb
