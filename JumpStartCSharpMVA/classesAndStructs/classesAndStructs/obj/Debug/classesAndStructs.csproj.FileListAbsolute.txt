@@ -1,0 +1,1 @@
+B:\projects\CSharp\JumpStartCSharpMVA\classesAndStructs\classesAndStructs\bin\Debug\classesAndStructs.exe.config
