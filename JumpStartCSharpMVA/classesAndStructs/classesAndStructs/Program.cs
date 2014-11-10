@@ -36,10 +36,40 @@ namespace classesAndStructs
         /// "Abstract" => cannot be instantiated; incomplete class; must be completed by a derived class
         /// "Sealed" =>
         /// </summary>
-        public class Animal
+        public abstract class Animal
         {
-
+            // can be accessed from derived class but not publically
+            protected void Bar() { }
         }
 
+        /// <summary>
+        /// A derived class
+        /// </summary>
+        public class Dog : Animal
+        {
+            public string Name { get; set; } //short hand for:
+
+            private string _name;
+            public string Name
+            {
+                get { return _name; }
+                set
+                {
+                    //some other stuff
+                    _name = value;
+                }
+            }
+
+            // only by this class
+            private void Foo() { }
+
+            //only in this assembly or solution
+            internal void Bar() { }
+
+            //executes within the object
+            void x() { this.Bar(); }
+
+
+        }
     }
 }
