@@ -36,11 +36,30 @@ namespace classesAndStructs
         /// "Abstract" => cannot be instantiated; incomplete class; must be completed by a derived class
         /// "Sealed" =>
         /// </summary>
+<<<<<<< HEAD
+        /// 
+        public class Trainer
+        {
+            void Operate()
+            {
+                var dog = new Dog();
+                dog.HasSpoken += dog_HasSpoken;
+
+            }
+
+            void dog_HasSpoken(object sender, EventArgs e)
+            {
+                throw new NotImplementedException();
+            }
+
+        }
+
         public abstract class Animal
         {
             // can be accessed from derived class but not publically
             protected void Bar() { }
         }
+
 
         /// <summary>
         /// A derived class
@@ -55,13 +74,37 @@ namespace classesAndStructs
                 get { return _name; }
                 set
                 {
-                    //some other stuff
+                    //some other stuff maybe validate
                     _name = value;
                 }
             }
 
+            /// <summary>
+            /// 
+            /// </summary>
+            public event EventHandler HasSpoken;
+
+
+            public void Speak(string what = "bark") //default
+            {
+                // TODO
+                if (HasSpoken != null)
+                HasSpoken(this, EventArgs.Empty); //what if nobody is listening?
+                
+            }
+
+            /// <summary>
+            /// shows that a different signature allows us to have function with same n
+            /// </summary>
+            /// <param name="what"></param>
+            public void Speak(int times, string what = "bark") //default
+            {
+                // TODO
+            }
+
+
             // only by this class
-            private void Foo() { }
+            private void Foo() {}
 
             //only in this assembly or solution
             internal void Bar() { }
@@ -69,7 +112,12 @@ namespace classesAndStructs
             //executes within the object
             void x() { this.Bar(); }
 
+=======
+        public class Animal
+        {
+>>>>>>> parent of d064ca4... Some more important keywords
 
         }
+
     }
 }
