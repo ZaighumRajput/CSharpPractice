@@ -1,0 +1,1 @@
+B:\projects\CSharp\JumpStartCSharpMVA\Generics\Generics\bin\Debug\Generics.exe.config

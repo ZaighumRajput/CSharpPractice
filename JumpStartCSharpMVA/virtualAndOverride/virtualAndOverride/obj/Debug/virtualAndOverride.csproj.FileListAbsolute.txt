@@ -1,1 +1,6 @@
 B:\projects\CSharp\JumpStartCSharpMVA\virtualAndOverride\virtualAndOverride\bin\Debug\virtualAndOverride.exe.config
+B:\projects\CSharp\JumpStartCSharpMVA\virtualAndOverride\virtualAndOverride\bin\Debug\virtualAndOverride.exe
+B:\projects\CSharp\JumpStartCSharpMVA\virtualAndOverride\virtualAndOverride\bin\Debug\virtualAndOverride.pdb
+B:\projects\CSharp\JumpStartCSharpMVA\virtualAndOverride\virtualAndOverride\obj\Debug\virtualAndOverride.csprojResolveAssemblyReference.cache
+B:\projects\CSharp\JumpStartCSharpMVA\virtualAndOverride\virtualAndOverride\obj\Debug\virtualAndOverride.exe
+B:\projects\CSharp\JumpStartCSharpMVA\virtualAndOverride\virtualAndOverride\obj\Debug\virtualAndOverride.pdb

@@ -13,7 +13,19 @@ namespace virtualAndOverride
             var baseClass = new BaseClass();
             var derivedOverride = new DerivedOverride();
             var derivedNew = new DerivedNew();
+            var derivedOverwrite = new DerivedOverwrite();
 
+            baseClass.Name()            ;
+            derivedOverride.Name()      ;
+            derivedNew.Name()           ;
+            derivedOverwrite.Name();
+
+            Console.WriteLine("Now we cast back to base class and see the effects");
+            ((BaseClass)baseClass).Name();
+            ((BaseClass)derivedOverride).Name();
+            ((BaseClass)derivedNew).Name();
+            ((BaseClass)derivedOverwrite).Name();
+            
 
             Console.ReadLine();
             baseClass.Name();
