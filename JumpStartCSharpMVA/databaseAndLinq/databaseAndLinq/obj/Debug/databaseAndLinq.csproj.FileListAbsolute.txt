@@ -1,0 +1,9 @@
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\bin\Debug\databaseAndLinq.exe.config
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\bin\Debug\Database1.sdf
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\bin\Debug\databaseAndLinq.exe
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\bin\Debug\databaseAndLinq.pdb
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\bin\Debug\EntityFramework.dll
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\bin\Debug\EntityFramework.xml
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\obj\Debug\databaseAndLinq.csprojResolveAssemblyReference.cache
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\obj\Debug\databaseAndLinq.exe
+B:\projects\CSharp\JumpStartCSharpMVA\databaseAndLinq\databaseAndLinq\obj\Debug\databaseAndLinq.pdb
