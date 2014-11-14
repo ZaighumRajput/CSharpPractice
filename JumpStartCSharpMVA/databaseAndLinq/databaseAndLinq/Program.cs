@@ -14,12 +14,19 @@ namespace databaseAndLinq
 
             var products = context.Products;
 
-            foreach (var product in products)
-                Console.WriteLine(product.Name);
+            foreach (var item in products
+                .Where(x => x.Name.Contains("L")))
+                Console.WriteLine(item.Name);
 
 
-            Console.Read();
+            var prod = products.First(x => x.Name.StartsWith("L"));
+            Console.WriteLine(prod.Name);
+           
 
+            prod.Name = "FauxLion Fur hut";
+            context.SaveChanges();
+
+            Console.WriteLine(prod.Name);
         }
     }
 }
