@@ -1,0 +1,6 @@
+B:\projects\CSharp\JumpStartCSharpMVA\LinqExample\LinqExample\bin\Debug\LinqExample.exe.config
+B:\projects\CSharp\JumpStartCSharpMVA\LinqExample\LinqExample\bin\Debug\LinqExample.exe
+B:\projects\CSharp\JumpStartCSharpMVA\LinqExample\LinqExample\bin\Debug\LinqExample.pdb
+B:\projects\CSharp\JumpStartCSharpMVA\LinqExample\LinqExample\obj\Debug\LinqExample.csprojResolveAssemblyReference.cache
+B:\projects\CSharp\JumpStartCSharpMVA\LinqExample\LinqExample\obj\Debug\LinqExample.exe
+B:\projects\CSharp\JumpStartCSharpMVA\LinqExample\LinqExample\obj\Debug\LinqExample.pdb
