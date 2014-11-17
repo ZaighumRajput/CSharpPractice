@@ -1,0 +1,6 @@
+B:\projects\CSharp\JumpStartCSharpMVA\fileSystem\fileSystem\bin\Debug\fileSystem.exe.config
+B:\projects\CSharp\JumpStartCSharpMVA\fileSystem\fileSystem\bin\Debug\fileSystem.exe
+B:\projects\CSharp\JumpStartCSharpMVA\fileSystem\fileSystem\bin\Debug\fileSystem.pdb
+B:\projects\CSharp\JumpStartCSharpMVA\fileSystem\fileSystem\obj\Debug\fileSystem.csprojResolveAssemblyReference.cache
+B:\projects\CSharp\JumpStartCSharpMVA\fileSystem\fileSystem\obj\Debug\fileSystem.exe
+B:\projects\CSharp\JumpStartCSharpMVA\fileSystem\fileSystem\obj\Debug\fileSystem.pdb
