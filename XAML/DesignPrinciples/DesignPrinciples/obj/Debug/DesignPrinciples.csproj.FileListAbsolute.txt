@@ -1,0 +1,13 @@
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\bin\Debug\DesignPrinciples.exe.config
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\bin\Debug\DesignPrinciples.exe
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\bin\Debug\DesignPrinciples.pdb
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples.csprojResolveAssemblyReference.cache
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\MainWindow.baml
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\MainWindow.g.cs
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\App.g.cs
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples_MarkupCompile.cache
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples.g.resources
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples.Properties.Resources.resources
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples.csproj.GenerateResource.Cache
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples.exe
+B:\projects\CSharp\XAML\DesignPrinciples\DesignPrinciples\obj\Debug\DesignPrinciples.pdb

@@ -1,0 +1,11 @@
+﻿<Window x:Class="DesignPrinciples.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Opacity="0.95" Background="#FFDE0000" AllowsTransparency="True" WindowStyle="None">
+    <ScrollViewer Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Opacity="0.98" >
+        <ScrollViewer.Effect>
+            <DropShadowEffect Color="#FF150101"/>
+        </ScrollViewer.Effect>
+
+    </ScrollViewer>
+</Window>
