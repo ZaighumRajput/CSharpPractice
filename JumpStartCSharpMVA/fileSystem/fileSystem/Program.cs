@@ -19,9 +19,7 @@ namespace fileSystem
             //infoAndMoving();
             // foldersExample();
             //example1();
-            
-
-
+           
         }
 
         private static void infoAndMoving()
