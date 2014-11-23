@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structVSClass", "structVSClass\structVSClass.csproj", "{CFC4A7EE-C2AB-46B2-BFBF-26796E2984FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC4A7EE-C2AB-46B2-BFBF-26796E2984FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC4A7EE-C2AB-46B2-BFBF-26796E2984FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC4A7EE-C2AB-46B2-BFBF-26796E2984FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC4A7EE-C2AB-46B2-BFBF-26796E2984FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
