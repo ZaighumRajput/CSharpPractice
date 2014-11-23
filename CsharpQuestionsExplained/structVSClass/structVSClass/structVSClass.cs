@@ -21,6 +21,13 @@ namespace structVSClass
             this.y = y;
         }
 
+        public static void ModifyStruct(PointStruct newStruct )
+        {
+            var randomNumberGen = new Random();
+            newStruct.x = randomNumberGen.Next();
+            newStruct.y = randomNumberGen.Next();
+        }
+
     }
     /// <summary>
     /// A CLASS that represents a point
@@ -36,6 +43,13 @@ namespace structVSClass
         {
             this.x = x;
             this.y = y;
+        }
+
+        public static void ModifyClass(PointClass newStruct)
+        {
+            var randomNumberGen = new Random();
+            newStruct.x = randomNumberGen.Next();
+            newStruct.y = randomNumberGen.Next();
         }
     }
 }
