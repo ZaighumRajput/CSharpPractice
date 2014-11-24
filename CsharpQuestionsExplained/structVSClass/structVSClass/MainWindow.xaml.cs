@@ -27,10 +27,16 @@ namespace structVSClass
 
         private void run_Click(object sender, RoutedEventArgs e)
         {
-            
+
+            structsAreValueTypesExample();
+
+        }
+
+        private void structsAreValueTypesExample()
+        {
             var pointStruct = new PointStruct(1, 2);
             var pointClass = new PointClass(1, 2);
-            
+
             outputBox.Text = "Originally the points were: " + pointStruct.x.ToString() + "," + pointStruct.y.ToString() + "\r\n";
 
             PointStruct.ModifyStruct(pointStruct);
@@ -41,7 +47,6 @@ namespace structVSClass
 
             PointClass.ModifyClass(pointClass);
             outputBox.Text += "Then the points were: " + pointClass.x.ToString() + "," + pointClass.y.ToString() + "\r\n";
-
         }
     }
 }
